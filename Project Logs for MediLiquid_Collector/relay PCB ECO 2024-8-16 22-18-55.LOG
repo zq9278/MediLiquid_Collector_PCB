@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=NetK?_1 Pin=P?-1
+Removed Pin From Net: NetName=NetK?_4 Pin=P?-1
+Removed Pin From Net: NetName=NetK?_3 Pin=P?-2
+Removed Pin From Net: NetName=NetP?_1 Pin=P?-2
+Change Component Footprint: Designator=P? Old Footprint=CONN-TH_2P-P2.00_ZX-HY2.0-2PZZ New Footprint=CONN-TH_HAA420A-2A
+Change Component Footprint: Designator=P? Old Footprint=CONN-TH_HAA420A-2A New Footprint=CONN-TH_2P-P2.00_ZX-HY2.0-2PZZ
+Change Component Comment : Designator=P? Old Comment=HC-5557-2*1A New Comment=ZX-HY2.0-2PZZ
+Change Component Comment : Designator=P? Old Comment=ZX-HY2.0-2PZZ New Comment=HC-5557-2*1A
+Change component parameters: Designator = "P?" ("P?"); Footprint = "CONN-TH_2P-P2.00_ZX-HY2.0-2PZZ"; UniqueID = "$$$\QTKUQEVS" ("$$$\QTKUQEVS")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "黄铜"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "锡"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "9A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230620/FF5B1F4AE343F4430EEB0EA0134778E8.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "HC-5557-2*1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "2x1P 间距:4.2mm 直插"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HCTL(华灿天禄)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "HC-5557-2*1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "直插"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "HC-5557-2*1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of PINs Per Row"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins Structure"; Value = "2x1P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "4.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Series"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "4.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=4.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C2845776"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "HC-5557-2*1A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P?" ("P?"); Footprint = "CONN-TH_HAA420A-2A"; UniqueID = "$$$\VYDBLYLK" ("$$$\VYDBLYLK")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "黄铜"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "锡"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230619/DEC43A5E9BAFB7A5BDB16FEDBE15E2A0.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "ZX-HY2.0-2PZZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "1x2P 间距:2mm 直插 系列:HY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Megastar(兆星)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "ZX-HY2.0-2PZZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "直插"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "ZX-HY2.0-2PZZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-25℃~+85℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Reference Series"; Value = "HY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C7429578"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "ZX-HY2.0-2PZZ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetK?_1 Pin=P?-1
+Added Pin To Net: NetName=NetK?_4 Pin=P?-1
+Added Pin To Net: NetName=NetK?_3 Pin=P?-2
+Added Pin To Net: NetName=NetP?_1 Pin=P?-2
