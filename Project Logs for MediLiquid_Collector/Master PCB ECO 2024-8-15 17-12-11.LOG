@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=Mcu Member=C19
+Removed Member From Class: ClassName=Peripheral Member=P14
+Removed Member From Class: ClassName=Peripheral Member=R47
+Removed Member From Class: ClassName=Peripheral Member=R48
+Removed Member From Class: ClassName=Peripheral Member=R54
+Removed Member From Class: ClassName=Power Member=R54
+Removed Member From Class: ClassName=Peripheral Member=R57
+Removed Member From Class: ClassName=Power Member=R57
+Add Differential Pair: Number of nets in differential pair NetP11_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair Vcc-12 is 1 instead of 2
+Added Member To Class: ClassName=Power Member=Component C12 CL10A226MQ8NRNC
+Added Member To Class: ClassName=Power Member=Component C14 CL05A106MQ5NUNC
+Added Member To Class: ClassName=Power Member=Component C15 CL05B104KB54PNC
+Added Member To Class: ClassName=Mcu Member=Component C20 CL05A475MP5NRNC
+Added Member To Class: ClassName=Mcu Member=Component C22 CL05B104KB54PNC
+Added Member To Class: ClassName=Mcu Member=Component C27 0402CG120J500NT
+Added Member To Class: ClassName=Peripheral Member=Component P10 HC-5557-2*2A
+Added Member To Class: ClassName=Mcu Member=Component P13 YTC-HAA200A-4A
+Added Member To Class: ClassName=Peripheral Member=Component R38 0402WGF1000TCE
+Added Member To Class: ClassName=Peripheral Member=Component R39 0402WGF1000TCE
+Added Member To Class: ClassName=Peripheral Member=Component R40 0402WGF0000TCE
+Added Member To Class: ClassName=Peripheral Member=Component R41 0402WGF0000TCE
+Added Member To Class: ClassName=Peripheral Member=Component R42 0402WGF1001TCE
+Added Member To Class: ClassName=Peripheral Member=Component R43 0402WGF1001TCE
+Added Member To Class: ClassName=Peripheral Member=Component R44 0402WGF1001TCE
+Added Member To Class: ClassName=Peripheral Member=Component R45 0402WGF1002TCE
+Added Member To Class: ClassName=Power Member=Component R46 0402WGF3322TCE
+Added Member To Class: ClassName=Power Member=Component R49
+Added Member To Class: ClassName=Mcu Member=Component R50 0402WGF1002TCE
+Added Member To Class: ClassName=Mcu Member=Component R51 0402WGF0000TCE
+Added Member To Class: ClassName=Mcu Member=Component R52 0402WGF0000TCE
+Added Member To Class: ClassName=Mcu Member=Component R53 0402WGF1002TCE

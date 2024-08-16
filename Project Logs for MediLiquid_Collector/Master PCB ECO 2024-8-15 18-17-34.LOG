@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=p Pin=U10-w
+Add Pin To Net: Unknown Pin: Pin U10-4
+Change Net Name : Old Net Name=n New Net Name=NetP11_2
+Change Net Name : Old Net Name=p New Net Name=Vcc-12
