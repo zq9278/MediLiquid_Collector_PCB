@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=Vcc-12 Pin=U10-w
+Removed Member From Class: ClassName=Peripheral Member=U4
+Removed Member From Class: ClassName=Peripheral Member=U5
+Removed Member From Class: ClassName=Peripheral Member=U7
+Change Component Designator: OldDesignator=LED2 NewDesignator=D?
+Change Component Designator: OldDesignator=LED3 NewDesignator=D?
+Change Component Designator: OldDesignator=U4 NewDesignator=D4
+Change Component Designator: OldDesignator=U5 NewDesignator=D5
+Change Component Designator: OldDesignator=U7 NewDesignator=D7
+Change Component Designator: OldDesignator=U8 NewDesignator=D8
+Add Pin To Net: Unknown Pin: Pin U10-4
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetD?_2
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetD?_2
+Added Member To Class: ClassName=Peripheral Member=Component C9 RVT1E221M0607
+Added Member To Class: ClassName=Peripheral Member=Component D4 SM4007PL
+Added Member To Class: ClassName=Peripheral Member=Component D5 SM4007PL
+Added Member To Class: ClassName=Peripheral Member=Component D7 SM4007PL

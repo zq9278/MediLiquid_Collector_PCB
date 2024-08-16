@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=SV-DETERGENT Pin=U11-w
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D7
+Change Component Designator: OldDesignator=D5 NewDesignator=D8
+Change Component Designator: OldDesignator=D6 NewDesignator=D10
+Change Component Designator: OldDesignator=D7 NewDesignator=D11
+Change Component Designator: OldDesignator=D7 NewDesignator=D12
+Change Component Designator: OldDesignator=D8 NewDesignator=D13
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D9
+Change Component Designator: OldDesignator=U6 NewDesignator=U4
+Change Component Designator: OldDesignator=U9 NewDesignator=U5
+Change Component Designator: OldDesignator=U10 NewDesignator=U6
+Change Component Designator: OldDesignator=U11 NewDesignator=U7
+Add Pin To Net: Unknown Pin: Pin U7-20
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD9_2
+Added Pin To Net: NetName=NetLabel14 Pin=U7-39
+Added Net: Name=NetLabel14
+Added Pin To Net: NetName=NetLabel15 Pin=U7-38
+Added Net: Name=NetLabel15
+Added Pin To Net: NetName=NetLabel16 Pin=U7-37
+Added Net: Name=NetLabel16
+Added Member To Class: ClassName=Peripheral Member=Component D10 SM4007PL
+Added Member To Class: ClassName=Peripheral Member=Component D11 SM4007PL
+Added Member To Class: ClassName=Peripheral Member=Component D12 BZT52C18W
+Added Member To Class: ClassName=Peripheral Member=Component D13 BZT52C18W
