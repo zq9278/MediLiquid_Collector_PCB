@@ -1,0 +1,58 @@
+Remove Pin from Net: Failed to remove Pin
+Added Component: Designator=U?(CONN-TH_3P-P3.96_FWF39601-S03S22W1B)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "»ÆÍ­"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Îý"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "7A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230323/0E3E4D4D36660133C8ECF6E8E2FE008C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "VH3.96-3P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x3P ¼ä¾à:3.96mm Ö±²å ÏµÁÐ:VH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SHOU HAN(Ê×º«)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "VH3.96-3P ZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Ö±²å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.96mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "VH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "3.96mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "²å¼þ,P=3.96mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C5379869"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "VH3.96-3P ZZ"; VariantName = "[No Variations]"
+Added Component: Designator=U?(CONN-TH_2P-P3.96_MEGASTAR_ZX-VH3.96-2PZZ)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "»ÆÍ­"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Îý"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20230619/B0F65C0388219DF8CB89B38B943D83C5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "ZX-VH3.96-2PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ZX-VH3.96-2PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Megastar(Õ×ÐÇ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "ZX-VH3.96-2PZZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "Ö±²å"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.96mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "VH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "²å¼þ,P=3.96mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C7429660"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "ZX-VH3.96-2PZZ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetK?_1 Pin=U?-1
+Added Pin To Net: NetName=NetK?_2 Pin=K?-2
+Added Pin To Net: NetName=NetK?_2 Pin=U?-3
+Added Net: Name=NetK?_2
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Pin To Net: NetName=NetU?_1 Pin=U?-2
+Added Net: Name=NetU?_1

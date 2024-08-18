@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=H? NewDesignator=H5
+Change Component Designator: OldDesignator=H? NewDesignator=H6
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=p? NewDesignator=p16
+Change Component Designator: OldDesignator=p? NewDesignator=p17
+Change Component Designator: OldDesignator=P? NewDesignator=P18
+Change Net Name : Old Net Name=NetK?_1 New Net Name=NetK1_1
+Change Net Name : Old Net Name=NetK?_3 New Net Name=NetK1_3
+Change Net Name : Old Net Name=NetK?_4 New Net Name=NetK1_4
+Change Net Name : Old Net Name=NetK?_5 New Net Name=NetK1_5
+Change Net Name : Old Net Name=Netp?_1 New Net Name=Netp16_2
